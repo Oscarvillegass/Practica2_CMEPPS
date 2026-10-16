@@ -5,7 +5,7 @@ public class Empleado {
 	public enum TipoEmpleado {
 		VENDEDOR, ENCARGADO
 	};
-
+ 
 
 	public float calculoNominaBruta(TipoEmpleado tipo, float ventasMes, float horasExtra) {
 		

@@ -101,7 +101,7 @@ class EmpleadoTest {
 		
 		assertEquals(resultado, resEmpleado);
 	}
-
+ 
 	@Test
 	void testCalculoNominaNeta_Menor2500() {
 		float nominaBruta = 2499f;
