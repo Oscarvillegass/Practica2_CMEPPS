@@ -1,0 +1,16 @@
+#Java
+*.class
+
+#Logs
+*.log
+
+#Eclipse / STS
+.metadata/
+.settings/
+.project
+.classpath
+.springBeans
+
+#SO
+.DS_Store
+Thumbs.db
